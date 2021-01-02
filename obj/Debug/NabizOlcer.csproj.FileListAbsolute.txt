@@ -1,0 +1,11 @@
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\bin\Debug\NabizOlcer.exe.config
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\bin\Debug\NabizOlcer.exe
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.Main.resources
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.Login.resources
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.Properties.Resources.resources
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.csproj.GenerateResource.cache
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.csproj.CoreCompileInputs.cache
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.exe
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.pdb
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\bin\Debug\NabizOlcer.pdb
+C:\Users\Samet SARIYILDIZ\Desktop\NabizOlcer\NabizOlcer\obj\Debug\NabizOlcer.csprojAssemblyReference.cache
