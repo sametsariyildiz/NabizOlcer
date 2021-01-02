@@ -13,7 +13,7 @@ namespace NabizOlcer.App_Code
     {
         public SqlConnection baglan()
         {
-            string connectionString = @"Data Source=185.136.84.130\MSSQLSERVER2017; User Id=nabiz; Password=yukseklisans1.; Database=YELLOWSTAR; ";
+            string connectionString = @"Data Source="server ip or localhost"; User Id=user; Password=pass.; Database=your databasename; ";
             SqlConnection conn = new SqlConnection(connectionString);
             conn.Open();
 
